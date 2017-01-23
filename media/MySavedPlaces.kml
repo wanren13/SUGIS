@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>My Saved Places</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Camera>
+    <longitude>-76.074371</longitude>
+    <latitude>38.566294</latitude>
+    <altitude>100.000000</altitude>
+    <heading>0.0</heading>
+    <tilt>75</tilt>
+  </Camera>
+  <Placemark>
+    <name>302 Muir St (Cambridge)</name>
+    <description><![CDATA[Cambridge, MD 21613<br><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=38.567739,-76.074412&amp;thumb=0">]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-76.074409,38.567738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

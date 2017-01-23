@@ -1,0 +1,48 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin:0px;
+}
+
+#maps{
+	position: relative;
+	height:100%;
+	width:75%;
+	float: right;
+}
+#map3d{ 
+	position:absolute;
+	height: 100%;
+	width: 100%;
+	float: right;
+	top: 0px;
+	right: 0px;
+}
+
+#map2d{ 
+	position:absolute;
+	height: 100%;
+	width: 100%;
+	float: right;
+	top: 0px;
+	right: 0px;
+	display: none;
+}
+
+#panel{
+	width:25%;
+	height:100%;
+	position:fixed;
+	float:left;
+	background-color: #ddd;
+}
+
+h5 {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.stormseverity{
+	float:left;
+	position:relative;
+}
